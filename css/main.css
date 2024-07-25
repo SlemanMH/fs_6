@@ -1,0 +1,90 @@
+
+*{
+   margin: 0;
+}
+.title{
+   width: 70%;
+   margin: auto;
+}
+.pag{
+
+   width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.iphone {
+    float: left;
+    width: 23%;
+    height: 350px;
+    border: solid;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.p{
+color: grey;
+margin-left: 10%;
+margin-top: 2%;
+}
+ .p1{
+    float:left;
+    font-size: 19px;
+    margin-right: 10px;
+    margin-left: 10%;
+    margin-top: 2%;
+    color: green ;
+ }
+ .p2{
+    float:left;
+    margin-left: 2%;
+    margin-top: 2%;
+    color: red;
+    text-decoration: line-through;
+ }
+ .clr{
+    clear: left;
+ }
+ .iphone img{
+  width: 80%;  
+  padding: 5% 10%;
+ }
+ .iphone h3{
+   margin-left: 10%;
+ }
+ .add_product {
+   float: left;
+   margin-left: 10%;
+   margin-top: 6px;
+   width: 200px;
+   height: 35px;
+   background-color:dodgerblue;
+   border: solid 1px dodgerblue;
+}
+
+.add_product i {
+   float: left;
+   color: white;
+   margin-left: 42px;
+}
+
+.add_product p {
+   float: left;
+   color: white;
+   margin-left: 5px;
+  
+}
+
+.like_product {
+   margin-top: 5px;
+   margin-left: 5px;
+   width: 40px;
+   height: 35px;
+   background-color: white;
+   border: solid 2px dodgerblue;
+   float: left;
+}
+
+.like_product i {
+   color: dodgerblue;
+}
+ 
